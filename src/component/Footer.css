@@ -28,6 +28,8 @@
 .footer__info {
     height: 100%;
     margin-top: 3rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
